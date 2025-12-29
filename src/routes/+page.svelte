@@ -51,7 +51,6 @@
 		
 		<p class="hero-description">
 			Experimente a emoção dos slots com <strong>99.999 pesos gratuitos</strong>!
-			Ambiente 100% seguro para teste • Sem apostas reais • Diversão garantida
 		</p>
 		
 		<!-- User Status -->
@@ -231,7 +230,7 @@
 <div class="final-cta">
 	<div class="cta-content">
 		<h2>Pronto para testar sua sorte?</h2>
-		<p>Junte-se a milhares de jogadores que já experimentaram a emoção do Cassino Test.</p>
+		<p>TESTE.</p>
 		
 		{#if data.loggedIn}
 			<div class="final-buttons">
