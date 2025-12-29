@@ -1,2 +1,1 @@
-# CASSINO-MODEL
-Um pequeno cassino para testar probabilidades.
+Pequeno modelo de Cassino para teste.
