@@ -37,7 +37,7 @@
 			const result = await response.json();
 			
 			if (result.success) {
-				location.reload(); // Recarrega para atualizar a sessão
+				location.reload(); 
 			} else {
 				error = result.error || 'Erro na autenticação';
 			}
@@ -52,8 +52,7 @@
 		isRegistering = !isRegistering;
 		error = '';
 	}
-
-</script lang="ts">
+</script>
 
 <div style="max-width: 400px; margin: 4rem auto; padding: 2rem; background: rgba(255,255,255,0.05); border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
 	<h1 style="text-align: center; color: #e94560; margin-top: 0;">
